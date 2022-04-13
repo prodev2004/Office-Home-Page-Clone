@@ -1,0 +1,111 @@
+// I'll provide this file to the source code...
+
+// MICROSOFT LOGO
+https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31
+
+
+
+// HEADER'S BACKGROUND IMAGE
+https://res.cdn.office.net/officehub/images/content/images/hero-xxl-b79c4b74fa.jpg
+
+
+
+// OFFICE PROGRAMS LOGOS
+// Word - https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/1200px-Microsoft_Word_2013-2019_logo.svg.png
+// Excel - https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png
+// Powerpoint - https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png
+// OneNote - https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_OneNote_%282019%E2%80%93present%29.svg.png
+// OneDrive - https://www.logo.wine/a/logo/OneDrive/OneDrive-Logo.wine.svg
+// Outlook - https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png
+// Teams - https://logos-world.net/wp-content/uploads/2021/04/Microsoft-Teams-Logo.png
+
+// Gif Background Image
+https://res.cdn.office.net/officehub/images/content/images/office-apps-347d86a528.gif
+
+
+
+// PREMIUM OFFICE APPS
+// For home - https://res.cdn.office.net/officehub/images/content/images/for-home-22b0da7562.png
+// For business - https://res.cdn.office.net/officehub/images/content/images/for-business-7a6cb040bd.png
+// For enterprise - https://res.cdn.office.net/officehub/images/content/images/for-enterprise-b5e0072ea2.png
+// For education - https://res.cdn.office.net/officehub/images/content/images/for-education-5ca7026e70.png
+
+
+
+// OFFICE SOCIAL MEDIA IMAGES
+// https://res.cdn.office.net/officehub/images/content/images/linkedin-refresh-02734a460c.png
+// https://res.cdn.office.net/officehub/images/content/images/facebook-refresh-090a700c0f.png
+// https://res.cdn.office.net/officehub/images/content/images/twitter-refresh-93ca1a80ff.png
+// https://res.cdn.office.net/officehub/images/content/images/instagram-refresh-5d315a943e.png
+// https://res.cdn.office.net/officehub/images/content/images/blog-33305b0d90.png
+
+
+
+// FOOTER LINKS
+<div class="column">
+    <h3>What's new</h3>
+    <a href="/">Surface Pro 8</a>
+    <a href="/">Surface Laptop Studio</a>
+    <a href="/">Surface Pro X</a>
+    <a href="/">Surface Go 3</a>
+    <a href="/">Surface Duo 2</a>
+    <a href="/">Surface Pro 7+</a>
+    <a href="/">Windows 11 apps</a>
+    <a href="/">HoloLens 2</a>
+</div>
+<div class="column">
+    <h3>Microsoft Store</h3>
+    <a href="/">Account Profile</a>
+    <a href="/">Download Center</a>
+    <a href="/">Microsoft Store support</a>
+    <a href="/">Returns</a>
+    <a href="/">Order tracking</a>
+    <a href="/">Virtual workshops and training</a>
+    <a href="/">Microsoft Store Promise</a>
+    <a href="/">Flexible Payments</a>
+</div>
+<div class="column">
+    <h3>Education</h3>
+    <a href="/">Microsoft in education</a>
+    <a href="/">Devices for education</a>
+    <a href="/">Microsoft Teams for Education</a>
+    <a href="/">Microsoft 365 Education</a>
+    <a href="/">Education consultation appointment</a>
+    <a href="/">Educator training and development</a>
+    <a href="/">Deals for students and parents</a>
+    <a href="/">Azure for students</a>
+</div>
+<div class="column">
+    <h3>Business</h3>
+    <a href="/">Microsoft Cloud</a>
+    <a href="/">Microsoft Security</a>
+    <a href="/">Azure</a>
+    <a href="/">Dynamics 365</a>
+    <a href="/">Microsoft 365</a>
+    <a href="/">Microsoft Advertising</a>
+    <a href="/">Microsoft Industry</a>
+    <a href="/">Microsoft Teams</a>
+</div>
+<div class="column">
+    <h3>Developer & IT</h3>
+    <a href="/">Developer Center</a>
+    <a href="/">Documentation</a>
+    <a href="/">Microsoft Learn</a>
+    <a href="/">Microsoft Tech Community</a>
+    <a href="/">Azure Marketplace</a>
+    <a href="/">AppSource</a>
+    <a href="/">Microsoft Power Platform</a>
+    <a href="/">Visual Studio</a>
+</div>
+<div class="column">
+    <h3>Company</h3>
+    <a href="/">Careers</a>
+    <a href="/">About Microsoft</a>
+    <a href="/">Company news</a>
+    <a href="/">Privacy at Microsoft</a>
+    <a href="/">Investors</a>
+    <a href="/">Diversity and inclusion</a>
+    <a href="/"></a>
+    <a href="/">Accessibility</a>
+    <a href="/">Sustainability</a>
+</div>

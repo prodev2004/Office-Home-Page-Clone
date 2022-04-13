@@ -1,0 +1,190 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    overflow-x: hidden;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5rem;
+    background-color: #fff;
+    min-height: 7vh;
+}
+nav a {
+    color: #151515;
+    text-decoration: none;
+    margin: 0 .5rem;
+    font-size: .8rem;
+}
+.left {
+    display: flex;
+    align-items: center;
+}
+.left img {
+    width: 108px;
+}
+.left .line {
+    width: 2px ;
+    height: 30px;
+    background-color: #000;
+    margin: 0 2rem;
+}
+.left .office {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.left .btn {
+    border: 1px solid #000;
+    background-color: transparent;
+    border-radius: .3rem;
+    padding: .3rem;
+    font-weight: 500;
+}
+
+header {
+    height: 425px;
+    color: #fff;
+}
+header img {
+    height: 100%;
+    pointer-events: none;
+    user-select: none;
+}
+header .content {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+header .content h1 {
+    font-weight: 500;
+}
+header .content p {
+    font-size: .9rem;
+    font-weight: 300;
+    margin: 1rem 0;
+}
+header .content .couple-btns {
+    margin: 1rem 0;
+}
+header .content button {
+    padding: .3rem 4rem;
+    background-color: #D83B01;
+    border: 2px solid #fff;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1rem;
+    cursor: pointer;
+}
+header .content button:last-of-type {
+    background-color: #fff;
+    border-color: #D83B01;
+    color: #D83B01;
+    margin-left: 1rem;
+}
+header .content a {
+    color: #fff;
+    text-decoration: none;
+    margin-top: 1rem;
+    display: inline-block;
+    font-size: .9rem;
+    font-weight: 500;
+}
+
+section {
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section .single p {
+    font-size: .8rem;
+}
+section h1 {
+    font-size: 2rem;
+    font-weight: 500;
+}
+section .icons {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-top: 4rem;
+}
+section .icons img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+section:first-of-type > img {
+    width: 100%;
+    margin-top: 5rem;
+}
+
+section:nth-of-type(2) {
+    background-color: #f5f5f5;
+    padding: 5rem 0;
+}
+section:nth-of-type(2) * {
+    text-align: center;
+}
+section:nth-of-type(2) .icons {
+    width: 1100px;
+}
+section:nth-of-type(2) .icons img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+section:nth-of-type(2) .icons p {
+    font-size: 1rem;
+    color: #0067B8;
+    font-weight: 500;
+    margin-top: 1rem;
+}
+
+section:last-of-type {
+    text-align: left;
+    align-items: flex-start;
+    padding-left: 5rem;
+    padding-bottom: 5rem;
+}
+section:last-of-type p {
+    font-size: 1.3rem;
+}
+section:last-of-type span {
+    margin-right: 1rem;
+}
+section:last-of-type img {
+    margin: 0 .5rem;
+}
+
+footer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 2rem 5rem;
+    background-color: #f5f5f5;
+}
+footer .column {
+    display: flex;
+    flex-direction: column;
+}
+footer .column h3 {
+    color: #616161;
+    font-weight: 500;
+}
+footer .column a {
+    color: #616161;
+    font-size: .8rem;
+    text-decoration: none;
+    margin: 0.5rem 0;
+}
+footer .column a:hover {
+    text-decoration: underline;
+}
